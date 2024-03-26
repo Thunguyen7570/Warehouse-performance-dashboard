@@ -42,16 +42,16 @@ Utilize a time horizon approach to compute Warehouse Key Performance Indicators 
 3. Structure Dashboard
 Organize the dashboard into three main sections:
 
-1. Operational Dashboard: Provides an overview snapshot of overall Warehouse performance.
+- Operational Dashboard: Provides an overview snapshot of overall Warehouse performance.
 
    ![Operational Dashboard](operational-dashboard.gif)
 
-2. Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
-   - Warehouse Performance Dashboard
+- Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
+   	- Warehouse Performance Dashboard
 
      ![Warehouse Performance Dashboard](warehouse-performance-dashboard.gif)
 
-   - Product Analysis Dashboard
+  	- Product Analysis Dashboard
 
      ![Product Analysis Dashboard](product-analysis-dashboard.gif)
 
