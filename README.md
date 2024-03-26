@@ -44,6 +44,10 @@ Organize the dashboard into three main sections:
 
 1. Operational Dashboard: Provides an overview snapshot of overall Warehouse performance.
    ![Operational Dashboard](operational-dashboard.gif)
-3. Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
+2. Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
+   - Warehouse Performance Dashboard
+     ![Warehouse Performance Dashboard](warehouse-performance-dashboard.gif)
+   - Product Analysis Dashboard
+     ![Product Analysis Dashboard](product-analysis-dashboard.gif)
 
 By following these steps, the project aims to streamline the ETL process, enhance data insights, and create informative dashboards for effective decision-making.
