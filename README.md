@@ -42,7 +42,8 @@ Utilize a time horizon approach to compute Warehouse Key Performance Indicators 
 3. Structure Dashboard
 Organize the dashboard into three main sections:
 
-Operational Dashboard: Provides an overview snapshot of overall Warehouse performance.
-1. Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
+1. Operational Dashboard: Provides an overview snapshot of overall Warehouse performance.
+   ![Operational Dashboard](operational-dashboard.gif)
+3. Analytic Dashboard 1 & 2: Facilitates insight drill-down for the top two critical metrics.
 
-2. By following these steps, the project aims to streamline the ETL process, enhance data insights, and create informative dashboards for effective decision-making.
+By following these steps, the project aims to streamline the ETL process, enhance data insights, and create informative dashboards for effective decision-making.
