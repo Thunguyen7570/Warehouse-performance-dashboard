@@ -6,7 +6,7 @@ This project comprises two main components:
 1. ETL with Python
 2. EDA and Dashboard Creation with Tableau
 
-## ETL with Python
+## ETL with SQL, and Python
 
 1. Business Understanding
 Understand the business context of the data being analyzed.
@@ -25,10 +25,10 @@ Detect and describe inconsistencies like missing values, duplicates, null values
 
 6. Apply ETL Process
 i. Transformation:
-	- Data Cleansing: Address identified inconsistencies, removing and flagging data as necessary. Perform Univariate analysis post data cleansing.
+	- Data Cleansing: Address identified inconsistencies, removing and flagging data as necessary. Perform Univariate analysis post-data cleansing.
 	- Data Restructuring and Enrichment: Segment data into smaller tables based on the ER model. Aggregate data to optimize table length for improved dashboard performance. Enhance data tables by adding attributes for detailed KPI performance, such as speed per item per pick.
 
-	ii. Load Data:
+ii. Load Data:
 Populate the transformed data tables by connecting to SQL.
 
 ## EDA and Dashboard Creation with Tableau
